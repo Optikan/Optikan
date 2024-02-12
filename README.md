@@ -1,19 +1,19 @@
-# Bienvenue chez Optikan
+# Welcome to Optikan
 
-## À propos
-🔍 Optikan est une entreprise spécialisée dans le développement de solutions de contrôle qualité non destructif pour une variété de secteurs industriels. Notre équipe est composée d'experts en technologie térahertz, électronique et intelligence artificielle, travaillant ensemble pour fournir des solutions innovantes et efficaces à nos clients.
+## About
+🔍 Optikan specializes in developing non-destructive quality control solutions for various industrial sectors. Our team comprises experts in terahertz technology, electronics, and artificial intelligence, working together to deliver innovative and effective solutions to our clients.
 
-## Intelligence Artificielle chez Optikan
-🧠 Nous sommes fiers de mettre l'intelligence artificielle au service de nos solutions de contrôle qualité. Notre équipe d'experts en IA travaille spécifiquement sur le domaine de la vision par ordinateur avec des images térahertz. Nous utilisons des techniques avancées de traitement d'images et d'apprentissage automatique pour détecter les défauts, mesurer les épaisseurs de revêtements et fournir des analyses précises et fiables.
+## Artificial Intelligence at Optikan
+🧠 We take pride in leveraging artificial intelligence to enhance our quality control solutions. Our AI team focuses specifically on computer vision with terahertz images, using advanced image processing and machine learning techniques to detect defects, measure coating thicknesses, and provide precise and reliable analyses.
 
 ## Repositories
-📁 Dans nos dépôts GitHub, vous trouverez une sélection de projets et de codes sources illustrant notre travail dans le domaine de l'intelligence artificielle et de la vision par ordinateur. N'hésitez pas à explorer nos projets et à contribuer si vous le souhaitez.
+📁 In our GitHub repositories, you'll find a selection of projects and source code showcasing our work in artificial intelligence and computer vision. Feel free to explore our projects and contribute if you wish.
 
 ## Contact
-📧 Pour en savoir plus sur nos solutions ou pour discuter de vos besoins spécifiques en matière de contrôle qualité, n'hésitez pas à nous contacter. Notre équipe sera ravie de répondre à vos questions et de collaborer avec vous pour trouver la meilleure solution pour votre entreprise.
+📧 To learn more about our solutions or discuss your specific quality control needs, don't hesitate to contact us. Our team will be delighted to answer your questions and collaborate with you to find the best solution for your company.
 
-Vous pouvez nous contacter via notre [site web](https://www.optikan.com/) ou par email à contact@optikan.com.
+You can reach us via our [website](https://www.optikan.com/) or by email at contact@optikan.com.
 
-Merci de votre intérêt pour Optikan !
+Thank you for your interest in Optikan!
 
 
