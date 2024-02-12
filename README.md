@@ -1,4 +1,4 @@
-🇫🇷  # Welcome to Optikan
+# 🇫🇷 Welcome to Optikan
 
 ## About
 🔍 Optikan specializes in developing non-destructive quality control solutions for various industrial sectors. Our team comprises experts in terahertz technology, electronics, and artificial intelligence, working together to deliver innovative and effective solutions to our clients.
